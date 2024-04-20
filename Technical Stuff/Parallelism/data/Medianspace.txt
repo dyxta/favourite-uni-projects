@@ -1,2 +1,0 @@
-Image read
-Image succesfully written
